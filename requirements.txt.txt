@@ -1,6 +1,5 @@
 streamlit
 pandas
-numpy
 matplotlib
-streamlit-lottie
-requests
+seaborn
+Pillow
